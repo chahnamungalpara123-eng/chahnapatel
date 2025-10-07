@@ -15,7 +15,7 @@
 
 ## 📈 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=KirtanMungalpara&show_icons=true&theme=radical
+https://github-readme-stats.vercel.app/api?username=chahnamungalpara123-eng&show_icons=true&theme=radical
 
 ## 📫 Connect with me
 
