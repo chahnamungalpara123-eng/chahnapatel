@@ -9,9 +9,9 @@
 
 ## 🛠️ Tech Stack
 - **Languages:** C++,Java, JavaScript
-- **Frontend:** React, HTML, CSS, Tailwind
-- **Backend:** Node.js, Express
-- **Databases:** MongoDB, PostgreSQL
+- **Frontend:** React, HTML, CSS
+- **Backend:** Node.js
+- **Databases:** MongoDB, MySQL
 
 ## 📈 GitHub Stats
 
