@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Chahna Mungalpara 👋</h1>
-<h3 align="center">Full-stack Development</h3>
+<h3 align="center">Full-stack Developer</h3>
 
  
 💻 Passionate about full-stack development  
